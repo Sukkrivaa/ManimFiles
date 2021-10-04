@@ -1,0 +1,11 @@
+{
+    "idleHeartbeats": 0,
+    "navigatingHeartbeats": 42,
+    "totalCodingHeartbeats": 5,
+    "languageHeartbeats": {
+        "python": 5
+    },
+    "fileHeartbeats": {
+        "Q1.py": 5
+    }
+}

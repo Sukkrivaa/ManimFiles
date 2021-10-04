@@ -1,0 +1,11 @@
+{
+    "idleHeartbeats": 607,
+    "navigatingHeartbeats": 53,
+    "totalCodingHeartbeats": 912,
+    "languageHeartbeats": {
+        "python": 912
+    },
+    "fileHeartbeats": {
+        "project/scene.py": 912
+    }
+}
